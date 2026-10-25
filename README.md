@@ -23,3 +23,6 @@ Data cleaning, exploratory data analysis, SQL querying, KPI validation, data vis
 
 ## Project Status
 Portfolio project in progress. Additional insights, dashboard screenshots, and detailed findings will be added as the project documentation develops.
+## Power BI Dashboard
+
+![Olist Power BI Dashboard](olist-dashboard.png)
