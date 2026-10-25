@@ -26,3 +26,9 @@ Portfolio project in progress. Additional insights, dashboard screenshots, and d
 ## Power BI Dashboard
 
 ![Olist Power BI Dashboard](olist-dashboard.PNG)
+
+## Key Business Insights
+### Monthly Sales Trend
+- Observed an overall upward trend in monthly sales across the analyzed period.
+- Identified a sharp decline in sales during September and October 2018, with only 16 orders in September and 4 in October.
+- **Data limitation:** The dataset ends on 17 October 2018, making October a partial month. Therefore, its sales figures are not directly comparable with those of complete months. September's unusually low order volume also warrants further investigation before drawing conclusions.
